@@ -2,6 +2,7 @@ This is an empty template project to demonstrate directory structure for future 
 
 Overview of directory structure is shown below:
 
+```
 .
 └── Project Top
     ├── info.txt : project information
@@ -15,3 +16,4 @@ Overview of directory structure is shown below:
     └── doc : contains documentation
         ├── testflow : document detailing entire test procedure
         └── spec : schematic sheets & datasheets
+```
